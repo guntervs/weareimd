@@ -1,0 +1,9 @@
+name: WeAreIMD
+type: theme
+description: 'The We Are IMD base theme.'
+package: Core
+core: 8.x
+base theme: stable
+
+libraries:
+  - weareimd/default
